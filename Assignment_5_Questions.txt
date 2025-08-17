@@ -1,0 +1,105 @@
+Exercise 1: Sales Analysis
+Date
+Region
+Salesperson
+Product
+Units Sold
+Unit Price
+Revenue
+Profit
+Pivot Table Tasks:
+Total Revenue by Region
+Revenue and Profit by Salesperson
+Monthly sales trend (group by Date → Month)
+Top 5 Products by Revenue
+Dashboard Elements:
+Line chart for monthly revenue trend
+Bar chart: Revenue by Region
+Table: Top Salespersons
+Slicer for Region/Product filter
+
+-------------------------------------------------------------
+Exercise 2: HR Employee Headcount and Attrition
+Employee ID
+Department
+Gender
+Age
+Join Date
+Exit Date
+Status (Active/Resigned)
+Salary
+Pivot Table Tasks:
+Active employees by Department
+Attrition count by Department and Gender
+Average Age and Salary by Department
+Year-wise attrition (group Exit Date by Year)
+Dashboard Elements:
+Donut chart for Gender split
+Column chart for attrition by department
+KPI cards: Headcount, Avg Age, Avg Salary
+Timeline filter (based on Join Date)
+--------------------------------------------------------------------------------
+Exercise 3: Inventory and Product Movement
+Dataset columns:
+Product ID
+Product Category
+Warehouse
+Opening Stock
+Quantity Sold
+Quantity Purchased
+Closing Stock
+Date
+Pivot Table Tasks:
+Total Stock Movement (Purchased - Sold) by Product
+Closing Stock by Category
+Weekly movement trends (group by week)
+Stock level alert (Conditional formatting for low stock)
+Dashboard Elements:
+Stacked bar: Opening vs Closing stock by Category
+Line chart for weekly product movement
+Slicer for Warehouse
+Highlight table for low stock products
+
+------------------------------------------------------------------------------------
+Exercise 4: Expense & Budget Tracking
+Dataset columns:
+Department
+Expense Category
+Expense Amount
+Budget
+Date
+Project Name
+Pivot Table Tasks:
+Budget vs Expense by Department
+% Budget Used by Category
+Monthly Expense Trend
+Project-wise expense breakdown
+Dashboard Elements:
+Bar chart: Actual vs Budget
+Heatmap for % Budget Utilization
+Timeline filter
+KPI cards: Total Budget, Total Expense, Overrun %
+
+----------------------------------------------------------------------
+Exercise 5: Customer Orders and Delivery
+Dataset columns:
+Order ID
+Customer Name
+Order Date
+Delivery Date
+Product
+Order Value
+Delivery Status (On Time/Delayed)
+Delivery Duration (Days)
+Pivot Table Tasks:
+Orders by Customer and Status
+Average Delivery Duration by Product
+Monthly Order Count and Value
+Delay Count by Customer
+Dashboard Elements:
+Line chart: Monthly Orders and Revenue
+Bar chart: Delays by Customer
+Table: Avg Delivery Time by Product
+Slicer: Filter by Delivery Status/Product
+
+-------------------------------------------------------------------------------
